@@ -1,0 +1,134 @@
+
+[
+    {
+        "url":"https://alienworlds.io/",
+        "name":"Alien worlds",
+        "rating":"74",
+        "icon":"https://dashboard-assets.dappradar.com/document/5314/alienworlds-dapp-games-wax-logo-166x166_15c50909678e70f765b11dda14fc5e1e.png",
+        "auditedBy":"Dacoco GmbH",
+        "auditorLink":"https://github.com/Alien-Worlds/Security-Audits",
+        "auditReport":"https://github.com/Alien-Worlds/Security-Audits/blob/main/Smart%20contract%20Audit%20%20Results%20-%20Alienworlds-2.pdf",
+        "auditState":"Audited",
+        "auditDate":"Feb 09, 2021"
+    },
+    {
+        "url":"https://www.gameta.pro/",
+        "name":"Gameta",
+        "icon":"https://dashboard-assets.dappradar.com/document/16145/gameta-dapp-games-solana-logo-166x166_1461858106bf9d50f4c67047959fb3f3.png",
+        "rating": "Unknow"
+    },
+    {
+        "url":"https://dappradar.com/",
+        "name":"DappRadar",
+        "icon":"https://storage.googleapis.com/accesswire/logos/subaccounts/29514.png?v=0",
+        "rating": "Unknow"
+    },
+    {
+        "url":"https://splinterlands.com/",
+        "name":"Splinterlands",
+        "icon":"https://pbs.twimg.com/profile_images/1030657648897605632/BaG_t_GO_400x400.jpg",
+        "rating": "Unknow"
+    },
+    {
+        "url":"https://farmersworld.io/",
+        "name":"Farmers World",
+        "icon":"https://dashboard-assets.dappradar.com/document/8430/farmersworld-dapp-games-wax-logo-166x166_52d0d3b38e00b215ecd58e8a2c1eb4c0.png",
+        "rating": "Unknow"
+    },
+    {
+        "url":"https://atomicassets.io/",
+        "name":"AtomicAssets",
+        "icon":"https://dashboard-assets.dappradar.com/document/4098/atomicassets-dapp-other-wax-logo-166x166_cf5a6d5c3220d488a699224980f8b894.png",
+        "rating": "Unknow"
+    },
+    {
+        "url":"https://atomicmarket.io/",
+        "name":"AtomicMarket",
+        "icon":"https://dashboard-assets.dappradar.com/document/3915/atomicassets-dapp-collectibles-wax-logo-166x166_f05230e3ca5c394018a7c6c50f43529b.png",
+        "rating": "Unknow"
+    },
+    {
+        "url":"https://www.upland.me/",
+        "name":"Upland",
+        "icon":"https://dashboard-assets.dappradar.com/document/3388/upland-games-eos-logo-166x166_3be743cc560e66eb74da926c7cec5bd0.png",
+        "rating": "Unknow"
+    },
+    {
+        "url":"https://goodswap.xyz/",
+        "name":"GoodDollar",
+        "icon":"https://dashboard-assets.dappradar.com/document/12597/gooddollar-dapp-defi-ethereum-logo-166x166_d92ef85f7c5e8a41d45bf5c3925a9213.png",
+        "rating": "Unknow"
+    },
+    {
+        "url":"https://magiceden.io/",
+        "name":"Magic Eden",
+        "icon":"https://dashboard-assets.dappradar.com/document/10734/magiceden-dapp-marketplaces-solana-logo-166x166_8b90ac0dc2e8ec219ca06afde15697e0.png",
+        "rating": "Unknow"
+    },
+    {
+        "url":"https://drip.community/",
+        "name":"DRIP",
+        "icon":"https://dashboard-assets.dappradar.com/document/8827/drip-dapp-defi-bsc-logo-166x166_b6f6249fbd34e79abf1100e5ddb7f1b5.png",
+        "rating": "Unknow"
+    },
+    {
+        "url":"https://www.onjoyride.com/",
+        "name":"Solitaire Blitz",
+        "icon":"https://dashboard-assets.dappradar.com/document/16370/solitaireblitz-dapp-games-flow-logo-166x166_d34383f02e271a44c179ad0d45c4d99f.png",
+        "rating": "Unknow"
+    },
+    {
+        "url":"https://www.era7.io/?",
+        "name":"Era7: Game of Truth",
+        "icon":"https://dashboard-assets.dappradar.com/document/15631/era7gameoftruth-dapp-games-bsc-logo-166x166_f1287778f41124d18f0651caf0bc2fd5.png",
+        "rating": "Unknow"
+    },
+    {
+        "url":"https://benjibananas.com/",
+        "name":"Benji Bananas",
+        "icon":"https://dashboard-assets.dappradar.com/document/14556/benjibananas-dapp-games-ethereum-logo-166x166_fa763ab6606520786d95367470362ead.png",
+        "rating": "Unknow"
+    },
+    {
+        "url":"https://www.gamee.com/",
+        "name":"Arc8 by GAMEE",
+        "icon":"https://dashboard-assets.dappradar.com/document/9152/arc8bygamee-dapp-games-matic-logo-166x166_ad09c6e8eff83f51c499e9988a1cba0c.png",
+        "rating": "Unknow"
+    },
+    {
+        "url":"https://axieinfinity.com/",
+        "name":"Axie Infinity",
+        "icon":"https://dashboard-assets.dappradar.com/document/9495/axieinfinity-dapp-games-ronin-logo-166x166_f1b797aa29b3b15edd71be6b07b2fa30.png",
+        "rating": "Unknow"
+    },
+    {
+        "url":"https://opensea.io/",
+        "name":"OpenSea",
+        "icon":"https://dashboard-assets.dappradar.com/document/13/opensea-dapp-marketplaces-ethereum-logo-166x166_f8aad6af2930b1edbeaee6457a505d1b.png",
+        "rating": "Unknow"
+    },
+    {
+        "url":"https://playmining.com/",
+        "name":"PlayMining",
+        "icon":"https://dashboard-assets.dappradar.com/document/11314/playmining-dapp-games-dea-logo-166x166_d74b58c612a084d97eb414a19ff3e8c5.png",
+        "rating": "Unknow"
+    },
+    {
+        "url":"https://www.richethereum.com/",
+        "name":"Kill Rich",
+        "icon":"https://dashboard-assets.dappradar.com/document/11551/killrichearnbnb-dapp-high-risk-bsc-logo-166x166_ea49b615b517c17d7dd1cffe4689fcea.png",
+        "rating": "Unknow"
+    },
+    {
+        "url":"https://xwg.games/",
+        "name":"X World Games",
+        "icon":"https://dashboard-assets.dappradar.com/document/7071/xworldgames-dapp-games-bsc-logo-166x166_f1ac22a52c9169700611bdf840349dd6.png",
+        "rating": "Unknow"
+    },
+    {
+        "url":"https://app.uniswap.org/",
+        "name":"Uniswap V3",
+        "icon":"https://dashboard-assets.dappradar.com/document/7000/uniswapv3-dapp-defi-ethereum-logo-166x166_097ebc5b6cb5e21fd63117263e330cf4.png",
+        "rating": "Unknow"
+    }
+]
