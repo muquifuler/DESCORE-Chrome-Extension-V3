@@ -10,3 +10,7 @@ When visiting the website, you will see a score based on the decentralization an
 ## How is the information collected?
 
 The backend uses web scraping to collect public information about projects in the main auditing companies, it is collected in a JSON, processed and sent to the status of the extension
+
+## What technologies are used?
+
+Puppeter, cheerio, Manifest V3, React.js, Webpack, express, node
