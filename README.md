@@ -5,7 +5,9 @@ If you're going to browse web 3.0, make sure you visit safe sites using Descore,
 
 ## How works?
 
-When visiting the website, you will see a score based on the decentralization and security of the project's mart contracts, as well as information such as the document itself and the date
+When visiting the website, you will see a score based on the decentralization and security of the project's mart contracts, as well as information such as the document itself and the date.
+
+The extension collects all the public information from the best auditors and shows you their information so you can make better decisions in less time.
 
 ## How is the information collected?
 
